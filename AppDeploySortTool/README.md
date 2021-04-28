@@ -3,15 +3,15 @@ This script tool will create AppDeployToolKit folders that can be used in the In
 
 ### Important
 Before you begin, make sure you have the following folders in your tree:
-For MSI:
-CMMsi
-Dne
-MSIToolkit
+#### For MSI:
+- CMMsi
+- Done
+- MSIToolkit
 
-For EXE:
-CMExe
-DoneExe
-ExeToolkit
+#### For EXE:
+- CMExe
+- DoneExe
+- ExeToolkit
 
 ### Usage 
 - Put any MSI files in CMMsi and any exe files in CMExe
