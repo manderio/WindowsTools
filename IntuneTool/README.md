@@ -9,6 +9,7 @@ For this, you will need to use the Mictosoft Win 32 Content Prep Tool. I am not 
 
 ### Usage
 - Rename your AppDeployToolkit folders, for example, the toolkit folder you are using in order to deploy firefox should be renamed to firefox and so on. 
-- Place all your finished folders in the Applications folder. Make sure that you remove any old folders before starting the script. 
+- Place all your finished folders in a folder by the name 'Applications'. Make sure that you remove any old folders before starting the script. 
+- Create an empty folder that you named 'Done'.
 - Run the script, all finished .intunewin files can be found in the Done folder. 
 
